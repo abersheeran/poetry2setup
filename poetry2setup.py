@@ -1,3 +1,5 @@
+from __future__ import print_function
+
 from poetry.core.utils._compat import Path
 from poetry.core.factory import Factory
 from poetry.core.masonry.builders.sdist import SdistBuilder
