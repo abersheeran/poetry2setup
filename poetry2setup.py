@@ -1,5 +1,3 @@
-from __future__ import print_function
-
 from pathlib import Path
 
 from poetry.core.factory import Factory

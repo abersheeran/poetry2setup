@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "poetry2setup"
-version = "1.0.0"
+version = "1.1.0"
 description = "Convert python-poetry to setup.py"
 authors = ["abersheeran <me@abersheeran.com>"]
 license = "MIT"
@@ -10,7 +10,7 @@ readme = "README.md"
 poetry2setup = 'poetry2setup:main'
 
 [tool.poetry.dependencies]
-python = "~2.7 || ^3.5"
+python = "^3.6"
 
 poetry-core = "^1.0.0"
 
